@@ -1,8 +1,8 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "0.10",
-  "name": "Harms faboulus packet",
+  "versionId": "0.12",
+  "name": "Harms faboulus packet0.12",
   "summary": "Minecraft 1.19 quilt with a focus on performance and quality of life. Including resourcepacks from vanilla tweaks.",
   "files": [
     {
