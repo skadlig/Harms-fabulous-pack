@@ -1,8 +1,8 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "0.12",
-  "name": "Harms faboulus packet0.12",
+  "versionId": "0.13",
+  "name": "Harms faboulus packet",
   "summary": "Minecraft 1.19 quilt with a focus on performance and quality of life. Including resourcepacks from vanilla tweaks.",
   "files": [
     {
@@ -306,21 +306,6 @@
       "fileSize": 115780
     },
     {
-      "path": "mods/indium-1.0.5+mc1.19.jar",
-      "hashes": {
-        "sha1": "97ac14960a972daa70803ffd0cfc4ed1aa9f7276",
-        "sha512": "750d231d2eedb35160c29236ab6258da0e4c88956a96ba598af2381cd2cd1eb0d272a21325f0fb309ce8d6e47a7a1f5b61727d2a4f0eb2e1c886ce595b8aaf98"
-      },
-      "env": {
-        "server": "unsupported",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.5+mc1.19/indium-1.0.5%2Bmc1.19.jar"
-      ],
-      "fileSize": 118176
-    },
-    {
       "path": "mods/inspecio-1.4.2+1.19.jar",
       "hashes": {
         "sha1": "7a0a222d0db9b26f91411cea6ab788f7d734156d",
@@ -576,21 +561,6 @@
       "fileSize": 329184
     },
     {
-      "path": "mods/qfapi-2.0.0-alpha.3_qsl-2.0.0-beta.2_fapi-0.55.3_mc-1.19.jar",
-      "hashes": {
-        "sha1": "3cbaf7ee8065e2e8110d3fb3dab4a74148d09559",
-        "sha512": "309529f66522e6c1ca4b3b18c8fa586f6f1ad812651090a9d6718f3d6fcee30ec14993e3ed98e8dd9dc154432a952d8fe0e94f9468ea4e34e1ea82671d800c60"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/qvIfYCYJ/versions/2.0.0-alpha.3+0.55.3-1.19/qfapi-2.0.0-alpha.3_qsl-2.0.0-beta.2_fapi-0.55.3_mc-1.19.jar"
-      ],
-      "fileSize": 1118973
-    },
-    {
       "path": "mods/quilt_loading_screen-4.0.0+1.19.jar",
       "hashes": {
         "sha1": "40335befe710a4f42355e717ffa9737ad90581a5",
@@ -604,21 +574,6 @@
         "https://cdn.modrinth.com/data/VPU6VYVP/versions/4.0.0+1.19/quilt_loading_screen-4.0.0%2B1.19.jar"
       ],
       "fileSize": 377966
-    },
-    {
-      "path": "mods/raised-fabric-1.19-pre1-1.1.1.jar",
-      "hashes": {
-        "sha1": "b4f69409c267c7ad3c3d80436f3ce37533755fde",
-        "sha512": "98e94d4a7aa6ee2cb5f868443bb41130e537ba6572754abab95766471bfc2d7358068bb26b0647926ff79cbf4d217afeb88c4ed3e297cfacb2d91b8d68324c06"
-      },
-      "env": {
-        "server": "unsupported",
-        "client": "optional"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/nCQRBEiR/versions/Fabric-1.19-pre1-1.1.1/raised-fabric-1.19-pre1-1.1.1.jar"
-      ],
-      "fileSize": 22232
     },
     {
       "path": "mods/reeses_sodium_options-1.4.3+mc1.19-build.43.jar",
@@ -771,21 +726,6 @@
       "fileSize": 63886
     },
     {
-      "path": "mods/enhancedblockentities-0.7+1.19.jar",
-      "hashes": {
-        "sha1": "374a8f0f01f5ba8fefda44888fd7f132e18a39e1",
-        "sha512": "33e345fac3868595c128f6decaafe36474d5243c9915899e5c38baea8096c504f00847a88589bfeb1723c01e6d1e5e59f4d2a74ca1438872685c2eed4398acab"
-      },
-      "env": {
-        "server": "unsupported",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/OVuFYfre/versions/0.7+1.19/enhancedblockentities-0.7%2B1.19.jar"
-      ],
-      "fileSize": 448396
-    },
-    {
       "path": "mods/RoughlyEnoughItems-9.0.491.jar",
       "hashes": {
         "sha1": "e2fdc22c6143e11510aeb83f6ae66d24d603d806",
@@ -801,19 +741,79 @@
       "fileSize": 1783908
     },
     {
-      "path": "mods/wthit-fabric-5.4.0.jar",
+      "path": "mods/enhancedblockentities-0.7.1+1.19.jar",
       "hashes": {
-        "sha1": "4686cadf3ddc879b907f5f17c8c681dc03a1a883",
-        "sha512": "53aaedb5ea529ab8b5e43082753bf255e6389cf15f5dd61010369413a637fe7b259a861be1b14278482228dc44e563984764adf9ac7dbf1966da71d9c73a7150"
+        "sha1": "78dd28b7d94ef3883e817a328be9e1d66aedaa24",
+        "sha512": "b1a78f509b8da64012a498618eefdebdf9fb720ce01b1b118084725d9f07f7e577ab416cbe705368e5255ef0db0d955f4766dd25e167e9fdbda8a6d36ee34ce0"
+      },
+      "env": {
+        "server": "unsupported",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/OVuFYfre/versions/0.7.1+1.19/enhancedblockentities-0.7.1%2B1.19.jar"
+      ],
+      "fileSize": 448841
+    },
+    {
+      "path": "mods/indium-1.0.6+mc1.19.jar",
+      "hashes": {
+        "sha1": "f4ed0775fbf68bd4ba5c31e143f05d7bf38817fa",
+        "sha512": "7c7c8ee2cb9b65beb6eda78f181831ac7620450651d60e019430bbbc11094dfcd61199d6506be117cf619543e67b6d8f4437805ef20392fced1efe60569d3778"
+      },
+      "env": {
+        "server": "unsupported",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.6+mc1.19/indium-1.0.6%2Bmc1.19.jar"
+      ],
+      "fileSize": 118075
+    },
+    {
+      "path": "mods/qfapi-2.0.0-alpha.4_qsl-2.0.0-beta.5_fapi-0.56.1_mc-1.19.jar",
+      "hashes": {
+        "sha1": "effab9273b9ff72e9f184a4ac9d7331b4993d8dd",
+        "sha512": "c63683b2eab81d72330dac4bc8eb9f4e1fed406f556aaae8f3eec94b564783d046745b9fff7bbb25105d195deb124287028becc9842df4cab89c8cddabfa4335"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/qvIfYCYJ/versions/2.0.0-alpha.4+0.56.1-1.19/qfapi-2.0.0-alpha.4_qsl-2.0.0-beta.5_fapi-0.56.1_mc-1.19.jar"
+      ],
+      "fileSize": 1128460
+    },
+    {
+      "path": "mods/raised-fabric-1.19-1.1.2.jar",
+      "hashes": {
+        "sha1": "939ac82a3c50da9bccf4834c52072214b9542a19",
+        "sha512": "7b96e4d7eb77fa21220f5ce887073c7bc958b8744e92034746629aa0aa7a9c8a156cfa4806b2b7c0a6f859c9bfd586ec5b07f4eb94d4ff13fbc98f23eb4df4b7"
+      },
+      "env": {
+        "server": "unsupported",
+        "client": "optional"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/nCQRBEiR/versions/Fabric-1.19-1.1.2/raised-fabric-1.19-1.1.2.jar"
+      ],
+      "fileSize": 23526
+    },
+    {
+      "path": "mods/wthit-fabric-5.4.3.jar",
+      "hashes": {
+        "sha1": "3b19074ce482b22e87dea60ea8b813ffb8e78230",
+        "sha512": "7720375ad761bd14bc2cd2be0a35e4efdd8a19c6adb9e934f88670c0411ab41a7c4ef2637dbc9469c942689baf4de528b11a40b34dd811d6a0a3a139e864f36d"
       },
       "env": {
         "server": "optional",
         "client": "optional"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/6AQIaxuO/versions/fabric-5.4.0/wthit-fabric-5.4.0.jar"
+        "https://cdn.modrinth.com/data/6AQIaxuO/versions/fabric-5.4.3/wthit-fabric-5.4.3.jar"
       ],
-      "fileSize": 321955
+      "fileSize": 321960
     }
   ],
   "dependencies": {
