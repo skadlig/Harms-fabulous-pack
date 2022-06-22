@@ -19,6 +19,7 @@ List of mods included with the links to them plus if they are optional or not:
 | bad packets                                             | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/badpackets                                             |
 | Better Biome Blend                                      | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/better-biome-blend                                     |
 | Bobby                                                   | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/bobby                                                  |
+| Better Enchanted Books                                              | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/better-enchanted-books                                             |
 | Clean Logs                                              | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/clean-logs                                             |
 | ClickTthrough                                           | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/clickthrough                                           |
 | Cloth Config API                                        | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/cloth-config                                           |
@@ -66,6 +67,7 @@ List of mods included with the links to them plus if they are optional or not:
 | Smooth Scrolling Everywhere                             | <ul><li>- [ ] </li></ul>    | https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric |
 | Sodium                                                  | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/sodium                                                 |
 | Starlight (Fabric)                                      | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/starlight                                              |
+| ToroHealth Damage Indicator                                      | <ul><li>- [ ] </li></ul>     | https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators                                              |
 | WorldEdit                             | <ul><li>- [ ] </li></ul>    | https://www.curseforge.com/minecraft/mc-mods/worldedit                                                  |
 | WTHIT - What The Hell Is It                             | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/wthit                                                  |
 
