@@ -12,62 +12,62 @@ Beside mods it also include my favourite resource packs from Vanilla tweaks. The
 List of mods included with the links to them plus if they are optional or not:
 | Name                                                    | Required | Link                                                                            |
 |---------------------------------------------------------|----------|---------------------------------------------------------------------------------|
-| Amecs: Alt-Meta-Escape-Control-Shift                    | [ ]    | https://modrinth.com/mod/amecs                                                  |
-| AntiGhost                                               | [x]     | https://modrinth.com/mod/antighost                                              |
-| ARchitectury API                                        | [x]     | https://modrinth.com/mod/architectury-api                                       |
-| Auth me                                                 | [ ]    | https://modrinth.com/mod/auth-me                                                |
-| bad packets                                             | [x]     | https://modrinth.com/mod/badpackets                                             |
-| Better Biome Blend                                      | [ ]    | https://modrinth.com/mod/better-biome-blend                                     |
-| Bobby                                                   | [x]     | https://modrinth.com/mod/bobby                                                  |
-| Clean Logs                                              | [ ]    | https://modrinth.com/mod/clean-logs                                             |
-| ClickTthrough                                           | [ ]    | https://modrinth.com/mod/clickthrough                                           |
-| Cloth Config API                                        | [x]     | https://modrinth.com/mod/cloth-config                                           |
-| Continuity                                              | [ ]    | https://modrinth.com/mod/continuity                                             |
-| Critical Orientation                                    | [ ]    | https://modrinth.com/mod/orientation                                            |
-| Cull Leaves                                             | [x]     | https://modrinth.com/mod/cull-leaves                                            |
-| DashLoader                                              | [x]     | https://modrinth.com/mod/dashloader                                             |
-| Don't Clear Chat History                                | [ ]    | https://www.curseforge.com/minecraft/mc-mods/dont-clear-chat-history            |
-| Durability Viewer                                       | [ ]    | https://modrinth.com/mod/durabilityviewer                                       |
-| Dynamic FPS                                             | [x]     | https://modrinth.com/mod/dynamic-fps                                            |
-| Enhanced Block Entities                                         | [x]     | https://modrinth.com/mod/ebe
-| Entity culling                                          | [x]     | https://modrinth.com/mod/entityculling                                          |
-| FastOpenLinksAndFolders                                 | [x]     | https://www.curseforge.com/minecraft/mc-mods/fastopenlinksandfolders            |
-| FerriteCore                                             | [x]     | https://modrinth.com/mod/ferrite-core                                           |
-| ForgetMeChunk                                           | [x]     | https://modrinth.com/mod/forgetmechunk                                          |
-| Indium                                                  | [x]     | https://modrinth.com/mod/indium                                                 |
-| Inspecio                                                | [ ]    | https://modrinth.com/mod/inspecio                                               |
-| Inventory Profiles Next                                 | [ ]    | https://modrinth.com/mod/inventory-profiles-next                                |
-| Iris                                                    | [ ]    | https://modrinth.com/mod/iris                                                   |
-| JourneyMap                                              | [ ]    | https://modrinth.com/mod/journeymap                                             |
-| kennytvs-epic-force-close-loading-screen-mod-for-fabric | [x]     | https://modrinth.com/mod/forcecloseworldloadingscreen                           |
-| Krypton                                                 | [x]     | https://modrinth.com/mod/krypton                                                |
-| LambdaBetterGrass                                       | [ ]    | https://modrinth.com/mod/lambdabettergrass                                      |
-| LambDynamicLights                                       | [ ]    | https://modrinth.com/mod/lambdynamiclights                                      |
-| LAN World Plug-n-Play (mcwifipnp)                       | [ ]    | https://modrinth.com/mod/mcwifipnp                                              |
-| LazyDFU                                                 | [x]     | https://modrinth.com/mod/lazydfu                                                |
-| Light Overlay                                           | [ ]    | https://modrinth.com/mod/light-overlay                                          |
-| Lithium                                                 | [x]     | https://modrinth.com/mod/lithium                                                |
-| Memory Leak Fix                                         | [x]     | https://modrinth.com/mod/memoryleakfix                                          |
-| Mod Menu                                                | [x]     | https://modrinth.com/mod/modmenu                                                |
-| MoreChatHistory                                         | [ ]    | https://modrinth.com/mod/morechathistory                                        |
-| Mouse Wheelie                                           | [ ]    | https://modrinth.com/mod/mouse-wheelie                                          |
-| No More Useless Keys - NMUK                             | [ ]    | https://modrinth.com/mod/nmuk                                                   |
-| No Strip                                                | [ ]    | https://modrinth.com/mod/No-strip                                               |
-| No Telemetry                                            | [x]     | https://modrinth.com/mod/No-telemetry                                           |
-| Not ENough Crashes                                      | [x]     | https://modrinth.com/mod/NoteNoughcrashes                                       |
-| Pet Owner                                               | [ ]    | https://modrinth.com/mod/petowner                                               |
+| Amecs: Alt-Meta-Escape-Control-Shift                    | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/amecs                                                  |
+| AntiGhost                                               | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/antighost                                              |
+| ARchitectury API                                        | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/architectury-api                                       |
+| Auth me                                                 | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/auth-me                                                |
+| bad packets                                             | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/badpackets                                             |
+| Better Biome Blend                                      | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/better-biome-blend                                     |
+| Bobby                                                   | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/bobby                                                  |
+| Clean Logs                                              | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/clean-logs                                             |
+| ClickTthrough                                           | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/clickthrough                                           |
+| Cloth Config API                                        | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/cloth-config                                           |
+| Continuity                                              | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/continuity                                             |
+| Critical Orientation                                    | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/orientation                                            |
+| Cull Leaves                                             | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/cull-leaves                                            |
+| DashLoader                                              | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/dashloader                                             |
+| Don't Clear Chat History                                | <ul><li>- [ ] </li></ul>    | https://www.curseforge.com/minecraft/mc-mods/dont-clear-chat-history            |
+| Durability Viewer                                       | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/durabilityviewer                                       |
+| Dynamic FPS                                             | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/dynamic-fps                                            |
+| Enhanced Block Entities                                         | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/ebe
+| Entity culling                                          | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/entityculling                                          |
+| FastOpenLinksAndFolders                                 | <ul><li>- [x] </li></ul>     | https://www.curseforge.com/minecraft/mc-mods/fastopenlinksandfolders            |
+| FerriteCore                                             | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/ferrite-core                                           |
+| ForgetMeChunk                                           | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/forgetmechunk                                          |
+| Indium                                                  | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/indium                                                 |
+| Inspecio                                                | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/inspecio                                               |
+| Inventory Profiles Next                                 | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/inventory-profiles-next                                |
+| Iris                                                    | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/iris                                                   |
+| JourneyMap                                              | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/journeymap                                             |
+| kennytvs-epic-force-close-loading-screen-mod-for-fabric | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/forcecloseworldloadingscreen                           |
+| Krypton                                                 | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/krypton                                                |
+| LambdaBetterGrass                                       | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/lambdabettergrass                                      |
+| LambDynamicLights                                       | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/lambdynamiclights                                      |
+| LAN World Plug-n-Play (mcwifipnp)                       | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/mcwifipnp                                              |
+| LazyDFU                                                 | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/lazydfu                                                |
+| Light Overlay                                           | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/light-overlay                                          |
+| Lithium                                                 | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/lithium                                                |
+| Memory Leak Fix                                         | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/memoryleakfix                                          |
+| Mod Menu                                                | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/modmenu                                                |
+| MoreChatHistory                                         | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/morechathistory                                        |
+| Mouse Wheelie                                           | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/mouse-wheelie                                          |
+| No More Useless Keys - NMUK                             | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/nmuk                                                   |
+| No Strip                                                | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/No-strip                                               |
+| No Telemetry                                            | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/No-telemetry                                           |
+| Not ENough Crashes                                      | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/NoteNoughcrashes                                       |
+| Pet Owner                                               | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/petowner                                               |
 | Quilted Fabric API / Quilt Standard Libraries                                     | [x]    | https://modrinth.com/mod/qsl                                   |
-| Quilt Loading Screen                                    | [ ]    | https://modrinth.com/mod/quilt-loading-screen                                   |
-| Raised                                                  | [ ]    | https://modrinth.com/mod/raised                                                 |
-| Reese's Sodium Options                                  | [x]     | https://modrinth.com/mod/reeses-sodium-options                                  |
-| Roughly ENough Items (REI)                              | [ ]    | https://modrinth.com/mod/roughly-eNough-items                                   |
-| Screenshot to Clipboard                                 | [ ]    | https://modrinth.com/mod/screenshot-to-clipboard                                |
-| Shadowed Action Bar                                     | [ ]    | https://modrinth.com/mod/shadowedactionbar                                      |
-| Smooth Scrolling Everywhere                             | [ ]    | https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric |
-| Sodium                                                  | [x]     | https://modrinth.com/mod/sodium                                                 |
-| Starlight (Fabric)                                      | [x]     | https://modrinth.com/mod/starlight                                              |
-| WorldEdit                             | [ ]    | https://www.curseforge.com/minecraft/mc-mods/worldedit                                                  |
-| WTHIT - What The Hell Is It                             | [ ]    | https://modrinth.com/mod/wthit                                                  |
+| Quilt Loading Screen                                    | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/quilt-loading-screen                                   |
+| Raised                                                  | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/raised                                                 |
+| Reese's Sodium Options                                  | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/reeses-sodium-options                                  |
+| Roughly ENough Items (REI)                              | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/roughly-eNough-items                                   |
+| Screenshot to Clipboard                                 | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/screenshot-to-clipboard                                |
+| Shadowed Action Bar                                     | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/shadowedactionbar                                      |
+| Smooth Scrolling Everywhere                             | <ul><li>- [ ] </li></ul>    | https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric |
+| Sodium                                                  | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/sodium                                                 |
+| Starlight (Fabric)                                      | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/starlight                                              |
+| WorldEdit                             | <ul><li>- [ ] </li></ul>    | https://www.curseforge.com/minecraft/mc-mods/worldedit                                                  |
+| WTHIT - What The Hell Is It                             | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/wthit                                                  |
 
 Credits:
 Vanilla Tweaks: https://vanillatweaks.net/
