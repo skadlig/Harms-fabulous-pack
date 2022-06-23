@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "0.13",
+  "versionId": "0.14",
   "name": "Harms faboulus packet",
   "summary": "Minecraft 1.19 quilt with a focus on performance and quality of life. Including resourcepacks from vanilla tweaks.",
   "files": [
@@ -499,21 +499,6 @@
         "https://cdn.modrinth.com/data/YCcdA1Lp/versions/1.0.1+mc1.19/nmuk-1.0.1%2Bmc1.19.jar"
       ],
       "fileSize": 241029
-    },
-    {
-      "path": "mods/nostrip-1.2.2-1.17+.jar",
-      "hashes": {
-        "sha1": "cc71b10f2bdbfae31a14e10c0bdb56c7008350f2",
-        "sha512": "a73a8d6bb24d7a66b57d9aead25f5a317db64ec6dc60f1fb213f7a54ea13fbd8148955964be0b1df3fe44b2fdfccfc23bb13630434b2a5af32ba2cdd4d8a65ab"
-      },
-      "env": {
-        "server": "optional",
-        "client": "optional"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/3f1BdVqy/versions/1.2.2/nostrip-1.2.2-1.17+.jar"
-      ],
-      "fileSize": 138357
     },
     {
       "path": "mods/no-telemetry-1.3.0.jar",
