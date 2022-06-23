@@ -53,7 +53,6 @@ List of mods included with the links to them plus if they are optional or not:
 | MoreChatHistory                                         | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/morechathistory                                        |
 | Mouse Wheelie                                           | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/mouse-wheelie                                          |
 | No More Useless Keys - NMUK                             | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/nmuk                                                   |
-| No Strip                                                | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/No-strip                                               |
 | No Telemetry                                            | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/No-telemetry                                           |
 | Not ENough Crashes                                      | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/NoteNoughcrashes                                       |
 | Pet Owner                                               | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/petowner                                               |
