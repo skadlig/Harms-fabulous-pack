@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "0.14",
+  "versionId": "0.15",
   "name": "Harms faboulus packet",
   "summary": "Minecraft 1.19 quilt with a focus on performance and quality of life. Including resourcepacks from vanilla tweaks.",
   "files": [
@@ -34,21 +34,6 @@
         "https://cdn.modrinth.com/data/Jw3Wx1KR/versions/1.19-fabric0.55.3-1.1.5/antighost-1.19-fabric0.55.3-1.1.5.jar"
       ],
       "fileSize": 78206
-    },
-    {
-      "path": "mods/architectury-5.7.27-fabric.jar",
-      "hashes": {
-        "sha1": "b1585ffd38c67619101e86c3c6319fa52efebf7c",
-        "sha512": "7b984bfdd69b6c1877cbb838a21bf35f860e3e069e7e8466ffe4437a27333f421fe8d7b4ab7f6142eea36638102293afa49e712a6be14ff35573e451bc1d86a1"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/lhGA9TYQ/versions/5.7.27+fabric/architectury-5.7.27-fabric.jar"
-      ],
-      "fileSize": 551610
     },
     {
       "path": "mods/authme-mc1.19-4.0.0.jar",
@@ -501,66 +486,6 @@
       "fileSize": 241029
     },
     {
-      "path": "mods/no-telemetry-1.3.0.jar",
-      "hashes": {
-        "sha1": "0aa4244d3f97006cb4bacbdefbd9ea41e17f1400",
-        "sha512": "1a61117e74c50ab086c2a4fb6be2ea3ecb1bdefaf0bf3ee9846435434e4624713dd519871605839b438f44eca82bff766a158b991e997995c0f1239858a6140c"
-      },
-      "env": {
-        "server": "unsupported",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/hg77g4Pw/versions/1.3.0/no-telemetry-1.3.0.jar"
-      ],
-      "fileSize": 84523
-    },
-    {
-      "path": "mods/notenoughcrashes-4.1.6+1.19-fabric.jar",
-      "hashes": {
-        "sha1": "3e45edbb8dc4aed296ad4997c1cf1c4c1066292d",
-        "sha512": "b5fea881b7797ab5856b9bd0ed9860f663bd613b66ab0972f080c4a23455418eed5337fa16524dcff50ab142dbf225085c60f48c5f5c04de3de60f64b8737b57"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/yM94ont6/versions/4.1.6+1.19-fabric/notenoughcrashes-4.1.6%2B1.19-fabric.jar"
-      ],
-      "fileSize": 164515
-    },
-    {
-      "path": "mods/PetOwner-1.8.3-1.19+.jar",
-      "hashes": {
-        "sha1": "1ef0f5728952b08e88f486b1034f144cfaddb4c7",
-        "sha512": "acdc794ed85d11c8288228c5e941e5b66e005e88296e0148fcb7698cba5f09ff4ab8fb8086566cfaf1a8ca9c4c2c833f902bd9a441c2fe46cef09924af44f11f"
-      },
-      "env": {
-        "server": "optional",
-        "client": "optional"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/IxUlAAFe/versions/1.8.3/PetOwner-1.8.3-1.19%2B.jar"
-      ],
-      "fileSize": 329184
-    },
-    {
-      "path": "mods/quilt_loading_screen-4.0.0+1.19.jar",
-      "hashes": {
-        "sha1": "40335befe710a4f42355e717ffa9737ad90581a5",
-        "sha512": "a00a74fa7cd45d71fa4ec49599c7e9dd0aed2793a5ebee34f9a2352fcb3608b758be35d0deefff280530a37f4337092961221166df30788e466db94fd89d21a6"
-      },
-      "env": {
-        "server": "unsupported",
-        "client": "optional"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/VPU6VYVP/versions/4.0.0+1.19/quilt_loading_screen-4.0.0%2B1.19.jar"
-      ],
-      "fileSize": 377966
-    },
-    {
       "path": "mods/reeses_sodium_options-1.4.3+mc1.19-build.43.jar",
       "hashes": {
         "sha1": "430337cd1d3d6fdf7b3910926b80cc204a082661",
@@ -651,21 +576,6 @@
       "fileSize": 127465
     },
     {
-      "path": "mods/mousewheelie-1.9.1+mc1.19-pre1.jar",
-      "hashes": {
-        "sha1": "f0e8c101301d3584e0aa9ae1ca6678a6de25d4c2",
-        "sha512": "6fa4dbbabb960ac53c5f4e45dd0f7731699b14083c3c46cd61cb89810308bb5ba617e2a265e5d33f338385732f4286fb62dc4d6193f5f45eef091b80e1344c94"
-      },
-      "env": {
-        "server": "optional",
-        "client": "optional"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/u5Ic2U1u/versions/1.9.1+mc1.19-pre1/mousewheelie-1.9.1%2Bmc1.19-pre1.jar"
-      ],
-      "fileSize": 956186
-    },
-    {
       "path": "mods/memoryleakfix-1.19-0.4.1.jar",
       "hashes": {
         "sha1": "9197e408de2f257446accfc466cb2498aca97b0f",
@@ -711,21 +621,6 @@
       "fileSize": 63886
     },
     {
-      "path": "mods/RoughlyEnoughItems-9.0.491.jar",
-      "hashes": {
-        "sha1": "e2fdc22c6143e11510aeb83f6ae66d24d603d806",
-        "sha512": "f1319795d540f46f00fd30eb0f0675f10c383d67274d116669e2d88c3b272a5160d5d7cb5e43ba74422bf7b84c15b5ee71b72e9093850e72738c821a71105e26"
-      },
-      "env": {
-        "server": "optional",
-        "client": "optional"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/nfn13YXA/versions/9.0.491+fabric/RoughlyEnoughItems-9.0.491.jar"
-      ],
-      "fileSize": 1783908
-    },
-    {
       "path": "mods/enhancedblockentities-0.7.1+1.19.jar",
       "hashes": {
         "sha1": "78dd28b7d94ef3883e817a328be9e1d66aedaa24",
@@ -756,21 +651,6 @@
       "fileSize": 118075
     },
     {
-      "path": "mods/qfapi-2.0.0-alpha.4_qsl-2.0.0-beta.5_fapi-0.56.1_mc-1.19.jar",
-      "hashes": {
-        "sha1": "effab9273b9ff72e9f184a4ac9d7331b4993d8dd",
-        "sha512": "c63683b2eab81d72330dac4bc8eb9f4e1fed406f556aaae8f3eec94b564783d046745b9fff7bbb25105d195deb124287028becc9842df4cab89c8cddabfa4335"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/qvIfYCYJ/versions/2.0.0-alpha.4+0.56.1-1.19/qfapi-2.0.0-alpha.4_qsl-2.0.0-beta.5_fapi-0.56.1_mc-1.19.jar"
-      ],
-      "fileSize": 1128460
-    },
-    {
       "path": "mods/raised-fabric-1.19-1.1.2.jar",
       "hashes": {
         "sha1": "939ac82a3c50da9bccf4834c52072214b9542a19",
@@ -786,34 +666,169 @@
       "fileSize": 23526
     },
     {
-      "path": "mods/wthit-fabric-5.4.3.jar",
-      "hashes": {
-        "sha1": "3b19074ce482b22e87dea60ea8b813ffb8e78230",
-        "sha512": "7720375ad761bd14bc2cd2be0a35e4efdd8a19c6adb9e934f88670c0411ab41a7c4ef2637dbc9469c942689baf4de528b11a40b34dd811d6a0a3a139e864f36d"
-      },
-      "env": {
-        "server": "optional",
-        "client": "optional"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/6AQIaxuO/versions/fabric-5.4.3/wthit-fabric-5.4.3.jar"
-      ],
-      "fileSize": 321960
-    },
-    {
       "path": "mods/better-enchanted-books-1.19-1.4.1.jar",
       "hashes": {
         "sha1": "df185305604269a15ea6ced6973035140ebbbef1",
         "sha512": "e7e605c684414ebdd0c070bbb80859265eb19c34ada4c4b24942a59b639a2ed90680f1496b3eb3bd1c9c094b981bb88ee0baeb3ca542840486090d1970005a26"
       },
       "env": {
-        "server": "required",
-        "client": "required"
+        "server": "optional",
+        "client": "optional"
       },
       "downloads": [
         "https://cdn.modrinth.com/data/yjpXhps7/versions/1.4.1/better-enchanted-books-1.19-1.4.1.jar"
       ],
       "fileSize": 48214
+    },
+    {
+      "path": "mods/architectury-5.7.28-fabric.jar",
+      "hashes": {
+        "sha1": "aa38ae9cc2e978e4ec87ff891f7b02ea0c0ee1b8",
+        "sha512": "f3c7f12c656c8210ea0bf939a2276afa92c7abb2e17c2e229ccd7eda3f6ec1bd485e80aa8ade9a4f4bcd51e7e9dab38f9142aea2993659bb2cb285008e526a96"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/lhGA9TYQ/versions/5.7.28+fabric/architectury-5.7.28-fabric.jar"
+      ],
+      "fileSize": 551658
+    },
+    {
+      "path": "mods/mousewheelie-1.10.1+mc1.19-pre1.jar",
+      "hashes": {
+        "sha1": "020c4ed30a9431f7fb8251c917a84d515baefcca",
+        "sha512": "633aa80ae9289938c5727e8aaa6fa5dde9d8c69cf7683c3edd2a0fdc5fa8ab1342f9b6e5f92e29e240c0ee5ccec9e204027ad111355c8ff6b07e7a4150c666be"
+      },
+      "env": {
+        "server": "optional",
+        "client": "optional"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/u5Ic2U1u/versions/1.10.1+mc1.19-pre1/mousewheelie-1.10.1%2Bmc1.19-pre1.jar"
+      ],
+      "fileSize": 960140
+    },
+    {
+      "path": "mods/no-telemetry-1.4.0.jar",
+      "hashes": {
+        "sha1": "10e117acc8f9e08ae1fadf4341e4d9d413ef092c",
+        "sha512": "62761b710093d8d7e73269b2e3847a3ad8ef3f75376b31759e2a05430f80cf6c2208c8bbca05d280c154dfc0b5cd1feae55f32017f976d1fb4bcf5dcaa803f34"
+      },
+      "env": {
+        "server": "unsupported",
+        "client": "optional"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/hg77g4Pw/versions/1.4.0/no-telemetry-1.4.0.jar"
+      ],
+      "fileSize": 83046
+    },
+    {
+      "path": "mods/notenoughcrashes-4.1.6+1.19-fabric.jar",
+      "hashes": {
+        "sha1": "3e45edbb8dc4aed296ad4997c1cf1c4c1066292d",
+        "sha512": "b5fea881b7797ab5856b9bd0ed9860f663bd613b66ab0972f080c4a23455418eed5337fa16524dcff50ab142dbf225085c60f48c5f5c04de3de60f64b8737b57"
+      },
+      "env": {
+        "server": "optional",
+        "client": "optional"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/yM94ont6/versions/4.1.6+1.19-fabric/notenoughcrashes-4.1.6%2B1.19-fabric.jar"
+      ],
+      "fileSize": 164515
+    },
+    {
+      "path": "mods/PetOwner-1.8.3-1.19+.jar",
+      "hashes": {
+        "sha1": "1ef0f5728952b08e88f486b1034f144cfaddb4c7",
+        "sha512": "acdc794ed85d11c8288228c5e941e5b66e005e88296e0148fcb7698cba5f09ff4ab8fb8086566cfaf1a8ca9c4c2c833f902bd9a441c2fe46cef09924af44f11f"
+      },
+      "env": {
+        "server": "optional",
+        "client": "optional"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/IxUlAAFe/versions/1.8.3/PetOwner-1.8.3-1.19%2B.jar"
+      ],
+      "fileSize": 329184
+    },
+    {
+      "path": "mods/quilt_loading_screen-4.0.0+1.19.jar",
+      "hashes": {
+        "sha1": "40335befe710a4f42355e717ffa9737ad90581a5",
+        "sha512": "a00a74fa7cd45d71fa4ec49599c7e9dd0aed2793a5ebee34f9a2352fcb3608b758be35d0deefff280530a37f4337092961221166df30788e466db94fd89d21a6"
+      },
+      "env": {
+        "server": "unsupported",
+        "client": "optional"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/VPU6VYVP/versions/4.0.0+1.19/quilt_loading_screen-4.0.0%2B1.19.jar"
+      ],
+      "fileSize": 377966
+    },
+    {
+      "path": "mods/qfapi-2.0.0-beta.4_qsl-2.0.0-beta.10_fapi-0.57.0_mc-1.19.jar",
+      "hashes": {
+        "sha1": "212d8bed0078f76d00b1198095577e429c233ee8",
+        "sha512": "9e3ea2f8e8ff8b1955ef2f1d9f52372d5384c4b9602003a68eb8a958edd561b002fe5551791a76d69496ed2b1eaf8010053078446801307237602b35dc650ef7"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/qvIfYCYJ/versions/2.0.0-beta.4+0.57.0-1.19/qfapi-2.0.0-beta.4_qsl-2.0.0-beta.10_fapi-0.57.0_mc-1.19.jar"
+      ],
+      "fileSize": 1155353
+    },
+    {
+      "path": "mods/RoughlyEnoughItems-9.1.503.jar",
+      "hashes": {
+        "sha1": "5a77807fdf2c846e4d4c67197ab085e16fd193a4",
+        "sha512": "b173ace49b88ab5e5c47b7c57e6def4626acd5e66308e97090d55e1526b450756bbd7ced803006c3216e4e44e2ec6bbf0b2a7910f505a2c098a54343bc89d64b"
+      },
+      "env": {
+        "server": "optional",
+        "client": "optional"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/nfn13YXA/versions/9.1.503+fabric/RoughlyEnoughItems-9.1.503.jar"
+      ],
+      "fileSize": 1918144
+    },
+    {
+      "path": "mods/wthit-fabric-5.5.1.jar",
+      "hashes": {
+        "sha1": "602bb44049a440820c30a4890611699b874113bb",
+        "sha512": "8b2e963273d8148fc382739bc51fb137a74261e7b74b49d2935b07e6e4c6d78404f62ad3b3cfce8565078e6da9c28bfc237945566b634788db69199466f3de47"
+      },
+      "env": {
+        "server": "optional",
+        "client": "optional"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/6AQIaxuO/versions/fabric-5.5.1/wthit-fabric-5.5.1.jar"
+      ],
+      "fileSize": 339160
+    },
+    {
+      "path": "mods/ok_zoomer-5.0.0-beta.9+1.19.jar",
+      "hashes": {
+        "sha1": "a4a39502796a8bae98d4334aba973fb861d30110",
+        "sha512": "5c01248271181b74df0ac2a1f75be483adb9063db91eab294b16a672c3e4c3d21c796ad264e027ee4ac9d7a585c75d7fe3caebc46024129db6deae55602a57cc"
+      },
+      "env": {
+        "server": "unsupported",
+        "client": "optional"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/aXf2OSFU/versions/5.0.0-beta.9+1.19/ok_zoomer-5.0.0-beta.9%2B1.19.jar"
+      ],
+      "fileSize": 259906
     }
   ],
   "dependencies": {
