@@ -55,6 +55,7 @@ List of mods included with the links to them plus if they are optional or not:
 | No More Useless Keys - NMUK                             | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/nmuk                                                   |
 | No Telemetry                                            | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/No-telemetry                                           |
 | Not ENough Crashes                                      | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/NoteNoughcrashes                                       |
+| Ok zoomer                                               | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/ok-zoomer                                               |
 | Pet Owner                                               | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/petowner                                               |
 | Quilted Fabric API / Quilt Standard Libraries                                     | [x]    | https://modrinth.com/mod/qsl                                   |
 | Quilt Loading Screen                                    | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/quilt-loading-screen                                   |
@@ -68,6 +69,7 @@ List of mods included with the links to them plus if they are optional or not:
 | Starlight (Fabric)                                      | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/starlight                                              |
 | ToroHealth Damage Indicator                                      | <ul><li>- [ ] </li></ul>     | https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators                                              |
 | WorldEdit                             | <ul><li>- [ ] </li></ul>    | https://www.curseforge.com/minecraft/mc-mods/worldedit                                                  |
+| WorldEditCUI                             | <ul><li>- [ ] </li></ul>    | https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric                                                  |
 | WTHIT - What The Hell Is It                             | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/wthit                                                  |
 
 Credits:
