@@ -7,7 +7,7 @@ If so this pack might be for you because the above is true for me. All mods incl
 
 Non of the mods add blocks or change your world. This means that the pack or individual mods can safely be removed if need be to upgrade Minecraft to a new version. Missing mods will be missed but won't wreck things on the way out. 
 
-Beside mods it also include my favourite resource packs from Vanilla tweaks. These fall into the category of improved QoL. 
+Beside mods it also include my favourite resource packs from Vanilla tweaks. These fall into the category of improved QoL. Remember to activate this and other resource packs needed for mods (such as leave culling) in Minecraft's settings for resource packs.
 
 List of mods included with the links to them plus if they are optional or not:
 | Name                                                    | Required | Link                                                                            |
@@ -38,7 +38,6 @@ List of mods included with the links to them plus if they are optional or not:
 | Indium                                                  | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/indium                                                 |
 | Inspecio                                                | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/inspecio                                               |
 | Inventory Profiles Next                                 | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/inventory-profiles-next                                |
-| Iris                                                    | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/iris                                                   |
 | JourneyMap                                              | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/journeymap                                             |
 | kennytvs-epic-force-close-loading-screen-mod-for-fabric | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/forcecloseworldloadingscreen                           |
 | Krypton                                                 | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/krypton                                                |
