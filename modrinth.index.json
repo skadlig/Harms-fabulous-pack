@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "0.16",
+  "versionId": "0.17",
   "name": "Harms faboulus packet",
   "summary": "Minecraft 1.19 quilt with a focus on performance and quality of life. Including resourcepacks from vanilla tweaks.",
   "files": [
@@ -471,21 +471,6 @@
       "fileSize": 127465
     },
     {
-      "path": "mods/memoryleakfix-1.19-0.4.1.jar",
-      "hashes": {
-        "sha1": "9197e408de2f257446accfc466cb2498aca97b0f",
-        "sha512": "556983a13727e291c8ca46be9c53c3284f986b2156e3bc3f879a6f436ebe3ffc0778fd05a189cffdcd8121a0c75cdcb4023b1ba37ca52ad59082826ae9b479e2"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.4.1/memoryleakfix-1.19-0.4.1.jar"
-      ],
-      "fileSize": 39758
-    },
-    {
       "path": "mods/forgetmechunk-1.0.4-1.18.X-1.19.X.jar",
       "hashes": {
         "sha1": "ed03ad25fb8cbfae4637edd5a4dd6386d9a6231e",
@@ -666,21 +651,6 @@
       "fileSize": 259906
     },
     {
-      "path": "mods/architectury-5.9.30-fabric.jar",
-      "hashes": {
-        "sha1": "f96546cf943b894bc4f481ee948e891034c621e4",
-        "sha512": "2028cbed6704b7dde5272188e9cb24d4acc356cdeb210a7ffe626b99ebd20d59d70eced3f2b097dfda5af5f9ad6ed31a8d7b4724963f78731a25d7311ca7f2d8"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/lhGA9TYQ/versions/5.9.30+fabric/architectury-5.9.30-fabric.jar"
-      ],
-      "fileSize": 551654
-    },
-    {
       "path": "mods/cloth-config-7.0.73-fabric.jar",
       "hashes": {
         "sha1": "5bc08411344e027cac4467763740f18626dae3ae",
@@ -756,36 +726,6 @@
       "fileSize": 475664
     },
     {
-      "path": "mods/qfapi-2.0.0-beta.5_qsl-2.0.0-beta.12_fapi-0.57.0_mc-1.19.jar",
-      "hashes": {
-        "sha1": "fbd761dee0d7d7c71859c078a4ca10f8c65d51d0",
-        "sha512": "804042d01c1fb856ed45c75a4f0731cea13c3dd47543a64be32be876bd8a0133e5c4b9132e884258aa9891d62f67189db9d0ea26091aece424825a9ac3364814"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/qvIfYCYJ/versions/2.0.0-beta.5+0.57.0-1.19/qfapi-2.0.0-beta.5_qsl-2.0.0-beta.12_fapi-0.57.0_mc-1.19.jar"
-      ],
-      "fileSize": 1155266
-    },
-    {
-      "path": "mods/RoughlyEnoughItems-9.1.511.jar",
-      "hashes": {
-        "sha1": "faea7e66d0ed9be4152adc875a50647139dd93b7",
-        "sha512": "725e9c2efcf4dd5a289a3955c9f2daa0f4dd59d3ae2764d4587bd3f8b63a1865adeaa3ddb625d3f3e6e3436f2b838665b362289f35b0ed2ea6acb5978ac547c8"
-      },
-      "env": {
-        "server": "optional",
-        "client": "optional"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/nfn13YXA/versions/9.1.511+fabric/RoughlyEnoughItems-9.1.511.jar"
-      ],
-      "fileSize": 1921947
-    },
-    {
       "path": "mods/modmenu-4.0.4.jar",
       "hashes": {
         "sha1": "d4fbf49f72a16b0c241d2c5e856292ad4253d9f7",
@@ -814,6 +754,66 @@
         "https://cdn.modrinth.com/data/6AQIaxuO/versions/quilt-5.6.1/wthit-quilt-5.6.1.jar"
       ],
       "fileSize": 336524
+    },
+    {
+      "path": "mods/architectury-5.9.31-fabric.jar",
+      "hashes": {
+        "sha1": "2a932e9145b123591a78ea045e65b31bc8a330ac",
+        "sha512": "f0459d972a1c5e2f148f6c90b261bbfe6a50b1b00f7e9c3271e39a2770a555f24ee487b301961fdb0b413b1f6654b43e3d6b0b1d7e8b631a76cb262eef3303d0"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/lhGA9TYQ/versions/5.9.31+fabric/architectury-5.9.31-fabric.jar"
+      ],
+      "fileSize": 551652
+    },
+    {
+      "path": "mods/memoryleakfix-1.19-0.5.3.jar",
+      "hashes": {
+        "sha1": "ccc67616db3ea39c7dd742d143cd039136f524b2",
+        "sha512": "531f1ebc5dc561aba6d65ea9ca0134666ecda61ed0288103b4df59fd5e9f2d458a2263d97bd9177568f6576318243b7f20800637389d3093609502a35bed5217"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.5.3/memoryleakfix-1.19-0.5.3.jar"
+      ],
+      "fileSize": 43587
+    },
+    {
+      "path": "mods/qfapi-2.0.0-beta.7_qsl-2.0.0-beta.15_fapi-0.57.0_mc-1.19.jar",
+      "hashes": {
+        "sha1": "5b3f9fa14975c1746eccae29fb47068334fff0e5",
+        "sha512": "d314db76326cced1d3abdaf1c101c88d665490a54c362494e1a24fac8f23f3ced55ec13c206722ba0033efdbc59d6d0547b6f8821ac78daffdb09445a7e1a687"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/qvIfYCYJ/versions/2.0.0-beta.7+0.57.0-1.19/qfapi-2.0.0-beta.7_qsl-2.0.0-beta.15_fapi-0.57.0_mc-1.19.jar"
+      ],
+      "fileSize": 1726698
+    },
+    {
+      "path": "mods/RoughlyEnoughItems-9.1.517.jar",
+      "hashes": {
+        "sha1": "b80b3f03bfe4d84eb131db405d9cbc09bad9c742",
+        "sha512": "08e27737e7804dafd1f73ffeca34b68deca94516e3e6e5f81a3cc8ee9eefa4e224c5e57341bfd8aa750aeba507bdb6bea56ae79be43d21dc002c4f36a5ca06f6"
+      },
+      "env": {
+        "server": "optional",
+        "client": "optional"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/nfn13YXA/versions/9.1.517+fabric/RoughlyEnoughItems-9.1.517.jar"
+      ],
+      "fileSize": 1921743
     }
   ],
   "dependencies": {
