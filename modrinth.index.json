@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "0.17",
+  "versionId": "0.18",
   "name": "Harms faboulus packet",
   "summary": "Minecraft 1.19 quilt with a focus on performance and quality of life. Including resourcepacks from vanilla tweaks.",
   "files": [
@@ -771,19 +771,19 @@
       "fileSize": 551652
     },
     {
-      "path": "mods/memoryleakfix-1.19-0.5.3.jar",
+      "path": "mods/memoryleakfix-1.19-0.5.4.jar",
       "hashes": {
-        "sha1": "ccc67616db3ea39c7dd742d143cd039136f524b2",
-        "sha512": "531f1ebc5dc561aba6d65ea9ca0134666ecda61ed0288103b4df59fd5e9f2d458a2263d97bd9177568f6576318243b7f20800637389d3093609502a35bed5217"
+        "sha1": "2776672be09acd23d8b94f382b3ddb1674b173a2",
+        "sha512": "329ee93b7159236eea4cce72384ff5b377610f78f148976d750fa6aec55ff0d6e28d5c7c6b9d338970181c4fe1c1574050661aefbb2f1e54ac056b0de4fa611c"
       },
       "env": {
         "server": "required",
         "client": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.5.3/memoryleakfix-1.19-0.5.3.jar"
+        "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.5.4/memoryleakfix-1.19-0.5.4.jar"
       ],
-      "fileSize": 43587
+      "fileSize": 42935
     },
     {
       "path": "mods/qfapi-2.0.0-beta.7_qsl-2.0.0-beta.15_fapi-0.57.0_mc-1.19.jar",
