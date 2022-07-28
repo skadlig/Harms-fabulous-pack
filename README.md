@@ -18,6 +18,7 @@ List of mods included with the links to them plus if they are optional or not:
 | Auth me                                                 | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/auth-me                                                |
 | bad packets                                             | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/badpackets                                             |
 | Better Biome Blend                                      | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/better-biome-blend                                     |
+| Beenfo                                      | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/beenfo                                     |
 | Bobby                                                   | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/bobby                                                  |
 | Better Enchanted Books                                              | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/better-enchanted-books                                             |
 | Clean Logs                                              | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/clean-logs                                             |
@@ -32,7 +33,7 @@ List of mods included with the links to them plus if they are optional or not:
 | Dynamic FPS                                             | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/dynamic-fps                                            |
 | Enhanced Block Entities                                         | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/ebe
 | Entity culling                                          | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/entityculling                                          |
-| FastOpenLinksAndFolders                                 | <ul><li>- [x] </li></ul>     | https://www.curseforge.com/minecraft/mc-mods/fastopenlinksandfolders            |
+| FastOpenLinksAndFolders                                 | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/fastopenlinksandfolders            |
 | FerriteCore                                             | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/ferrite-core                                           |
 | ForgetMeChunk                                           | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/forgetmechunk                                          |
 | Indium                                                  | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/indium                                                 |
@@ -63,6 +64,7 @@ List of mods included with the links to them plus if they are optional or not:
 | Roughly ENough Items (REI)                              | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/roughly-eNough-items                                   |
 | Screenshot to Clipboard                                 | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/screenshot-to-clipboard                                |
 | Shadowed Action Bar                                     | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/shadowedactionbar                                      |
+| Show Me Your Skin!                                     | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/show-me-your-skin                                      |
 | Smooth Scrolling Everywhere                             | <ul><li>- [ ] </li></ul>    | https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric |
 | Sodium                                                  | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/sodium                                                 |
 | Starlight (Fabric)                                      | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/starlight                                              |
