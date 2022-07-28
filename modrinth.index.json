@@ -844,6 +844,21 @@
         "https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.19.1-rc2-1.6.1/InventoryProfilesNext-fabric-1.19-1.6.1.jar"
       ],
       "fileSize": 1508308
+    },
+    {
+      "path": "mods/beenfo-1.19-fabric0.53.3-1.3.3-spigot.jar",
+      "hashes": {
+        "sha1": "8f08347c017f2338d233e6de9a5aa1e765ec4d97",
+        "sha512": "c77f260fbab1964b2ab9f03c17dd80d25e76bed05bb9d0ee2527578d4ef55d6d42919ee457d48fde0d01e7bae0de2ebe9f81995bf0fd04b22bd3b11e1094a12f"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Bta0Pt47/versions/1.19-fabric0.53.3-1.3.3/beenfo-1.19-fabric0.53.3-1.3.3-spigot.jar"
+      ],
+      "fileSize": 293644
     }
   ],
   "dependencies": {
