@@ -36,6 +36,7 @@ List of mods included with the links to them plus if they are optional or not:
 | FastOpenLinksAndFolders                                 | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/fastopenlinksandfolders            |
 | FerriteCore                                             | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/ferrite-core                                           |
 | ForgetMeChunk                                           | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/forgetmechunk                                          |
+| GrabcraftLitematic                                              | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/grabcraft-litematic                                             |
 | Indium                                                  | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/indium                                                 |
 | Inspecio                                                | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/inspecio                                               |
 | Inventory Profiles Next                                 | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/inventory-profiles-next                                |
@@ -47,8 +48,12 @@ List of mods included with the links to them plus if they are optional or not:
 | LAN World Plug-n-Play (mcwifipnp)                       | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/mcwifipnp                                              |
 | LazyDFU                                                 | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/lazydfu                                                |
 | Light Overlay                                           | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/light-overlay                                          |
+| Litematica                                           | <ul><li>- [ ] </li></ul>    | https://minecraft.curseforge.com/projects/litematica                                          |
+| Litematica tool                                     | <ul><li>- [ ] </li></ul>    | https://www.curseforge.com/minecraft/mc-mods/litematica-tool                                          |
 | Lithium                                                 | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/lithium                                                |
+| MaLiLib                                         | <ul><li>- [ ] </li></ul>    | https://www.curseforge.com/minecraft/mc-mods/malilib                                        |
 | Memory Leak Fix                                         | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/memoryleakfix                                          |
+| MiniHud                                         | <ul><li>- [ ] </li></ul>    | https://minecraft.curseforge.com/projects/minihud                                        |
 | Mod Menu                                                | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/modmenu                                                |
 | MoreChatHistory                                         | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/morechathistory                                        |
 | Mouse Wheelie                                           | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/mouse-wheelie                                          |
@@ -57,9 +62,10 @@ List of mods included with the links to them plus if they are optional or not:
 | Not ENough Crashes                                      | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/NoteNoughcrashes                                       |
 | Ok zoomer                                               | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/ok-zoomer                                               |
 | Pet Owner                                               | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/petowner                                               |
-| Quilted Fabric API / Quilt Standard Libraries                                     | [x]    | https://modrinth.com/mod/qsl                                   |
+| Quilted Fabric API / Quilt Standard Libraries                                     | <ul><li>- [x] </li></ul>   | https://modrinth.com/mod/qsl                                   |
 | Quilt Loading Screen                                    | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/quilt-loading-screen                                   |
 | Raised                                                  | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/raised                                                 |
+| RandomBlockPlacement                                                  | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/randomblockplacement                                                 |
 | Reese's Sodium Options                                  | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/reeses-sodium-options                                  |
 | Roughly ENough Items (REI)                              | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/roughly-eNough-items                                   |
 | Screenshot to Clipboard                                 | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/screenshot-to-clipboard                                |
