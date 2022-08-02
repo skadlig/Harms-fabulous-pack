@@ -516,6 +516,21 @@
       "fileSize": 48214
     },
     {
+      "path": "mods/mousewheelie-1.10.1+mc1.19-pre1.jar",
+      "hashes": {
+        "sha1": "020c4ed30a9431f7fb8251c917a84d515baefcca",
+        "sha512": "633aa80ae9289938c5727e8aaa6fa5dde9d8c69cf7683c3edd2a0fdc5fa8ab1342f9b6e5f92e29e240c0ee5ccec9e204027ad111355c8ff6b07e7a4150c666be"
+      },
+      "env": {
+        "server": "optional",
+        "client": "optional"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/u5Ic2U1u/versions/1.10.1+mc1.19-pre1/mousewheelie-1.10.1%2Bmc1.19-pre1.jar"
+      ],
+      "fileSize": 960140
+    },
+    {
       "path": "mods/no-telemetry-1.4.0.jar",
       "hashes": {
         "sha1": "10e117acc8f9e08ae1fadf4341e4d9d413ef092c",
