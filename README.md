@@ -9,6 +9,8 @@ Non of the mods add blocks or change your world. This means that the pack or ind
 
 Beside mods it also include my favourite resource packs from Vanilla tweaks. These fall into the category of improved QoL. Remember to activate this and other resource packs needed for mods (such as leave culling) in Minecraft's settings for resource packs.
 
+Distant Horizons is considered beta so use at own risk. It makes a world of difference to se though.
+
 List of mods included with the links to them plus if they are optional or not:
 | Name                                                    | Required | Link                                                                            |
 |---------------------------------------------------------|----------|---------------------------------------------------------------------------------|
@@ -28,6 +30,7 @@ List of mods included with the links to them plus if they are optional or not:
 | Critical Orientation                                    | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/orientation                                            |
 | Cull Leaves                                             | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/cull-leaves                                            |
 | DashLoader                                              | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/dashloader                                             |
+| Distant Horizons                                | <ul><li>- [ ] </li></ul>    | https://modrinth.com/modpack/harms-fabulous-pack            |
 | Don't Clear Chat History                                | <ul><li>- [ ] </li></ul>    | https://www.curseforge.com/minecraft/mc-mods/dont-clear-chat-history            |
 | Durability Viewer                                       | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/durabilityviewer                                       |
 | Dynamic FPS                                             | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/dynamic-fps                                            |
