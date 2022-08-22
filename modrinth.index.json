@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "0.21",
+  "versionId": "0.22",
   "name": "Harms faboulus packet",
   "summary": "Minecraft 1.19 quilt with a focus on performance and quality of life. Including resourcepacks from vanilla tweaks.",
   "files": [
@@ -696,21 +696,6 @@
       "fileSize": 1729847
     },
     {
-      "path": "mods/reeses_sodium_options-1.4.4+mc1.19-build.47.jar",
-      "hashes": {
-        "sha1": "07996117b63b384d30abb92d175c98500dfab04d",
-        "sha512": "37ff004b8c20f84007bfff50c8a96101d09937569d6532fc6aabcac2af4f363799484852cbb6fa75a85b4d6af646d2733d881c3238a814ab2a5be952c089dae8"
-      },
-      "env": {
-        "server": "unsupported",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.19-1.4.4/reeses_sodium_options-1.4.4%2Bmc1.19-build.47.jar"
-      ],
-      "fileSize": 42913
-    },
-    {
       "path": "mods/beenfo-1.19-fabric0.53.3-1.3.3-spigot.jar",
       "hashes": {
         "sha1": "8f08347c017f2338d233e6de9a5aa1e765ec4d97",
@@ -801,21 +786,6 @@
       "fileSize": 31017
     },
     {
-      "path": "mods/RoughlyEnoughItems-9.1.520.jar",
-      "hashes": {
-        "sha1": "d59bcf25e656581972ebef5b360c306485a172d5",
-        "sha512": "45f895e25e68531504cf32aca97d80c6fb715ed50710186e1dec8fca3934227161a921862c5e44bba32d87811483e2b4ee17fb05aa5c73e1e272c50d51302db0"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/nfn13YXA/versions/9.1.520+fabric/RoughlyEnoughItems-9.1.520.jar"
-      ],
-      "fileSize": 1983522
-    },
-    {
       "path": "mods/wthit-quilt-5.9.0.jar",
       "hashes": {
         "sha1": "d6d56d55cff1da263c83301619e9b8bee40dc92d",
@@ -831,34 +801,19 @@
       "fileSize": 366952
     },
     {
-      "path": "mods/show-me-your-skin-1.3.2+1.19.jar",
+      "path": "mods/DistantHorizons-1.6.7a-1.19.jar",
       "hashes": {
-        "sha1": "428b669e2dec589fd34723989a0ab75c2157c497",
-        "sha512": "e2ab9f550e0f34237362637fe73d4aa36f0bf4f50ed7e05d69deb77de26e44cb4db7d096b9a53f6875751db28eedc8e1f54b63ab3a016a1747c5344aa2c47bc1"
+        "sha1": "f8dfdca39c400c1660526b5311ea59339b0a014e",
+        "sha512": "4d5159230cb3c9639331995357ba840430b55c764768aecdfd8d14896462af1de44c11fe6b363b104cd65ce0d3b6df315e9264a7281c9dce10eb8a829f0a1205"
       },
       "env": {
         "server": "unsupported",
         "client": "optional"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/bD7YqcA3/versions/1.3.2+1.19/show-me-your-skin-1.3.2%2B1.19.jar"
+        "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.7a-1.19/DistantHorizons-1.6.7a-1.19.jar"
       ],
-      "fileSize": 78418
-    },
-    {
-      "path": "mods/architectury-5.12.42-fabric.jar",
-      "hashes": {
-        "sha1": "460f602a60e19992c5f10d3b36625067ece4454e",
-        "sha512": "3fdb7cf949b495de94f8ab4fda25112f8c870c8a55fefda8336b8de4a97f346682519503d6ceccf34f7b3f6aa9c34b679496ab89d7009446307b3ebff43731b5"
-      },
-      "env": {
-        "server": "required",
-        "client": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/lhGA9TYQ/versions/5.12.42+fabric/architectury-5.12.42-fabric.jar"
-      ],
-      "fileSize": 567573
+      "fileSize": 2606460
     },
     {
       "path": "mods/continuity-2.0.1+1.19.jar",
@@ -889,6 +844,81 @@
         "https://cdn.modrinth.com/data/O7RBXm3n/versions/UDoo6Ccf/InventoryProfilesNext-fabric-1.19-1.6.5.jar"
       ],
       "fileSize": 1519786
+    },
+    {
+      "path": "mods/Entity_Collision_FPS_Fix-fabric-1.19-2.0.0.0.jar",
+      "hashes": {
+        "sha1": "79c5af9ebdf16051a2bf5fece904646190595630",
+        "sha512": "746c19d29f3c36283f43f7364ae59c2393dbb1a85f524e0dc466cd48ab9cbdf7ad695ee8b84cc10cdc113cc220ed7f4dde9e42efa8a449395e37c0c80c51678f"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/GiriLmaY/versions/2.0.0.0/Entity_Collision_FPS_Fix-fabric-1.19-2.0.0.0.jar"
+      ],
+      "fileSize": 10797
+    },
+    {
+      "path": "mods/architectury-5.12.44-fabric.jar",
+      "hashes": {
+        "sha1": "073188c6342e5f73a1e6eca218e5298051e9be42",
+        "sha512": "f11176f1758c749774a18808e950ebcfd164a5591523ed8438c6bc739ac33d81ac8cfe0a85b222c45d86a1510639e3c4094d1b319d1becff1f8719ae86e238a3"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/lhGA9TYQ/versions/JCUL4KKt/architectury-5.12.44-fabric.jar"
+      ],
+      "fileSize": 567570
+    },
+    {
+      "path": "mods/reeses_sodium_options-1.4.7+mc1.19.2-build.59.jar",
+      "hashes": {
+        "sha1": "b9cc6500afef896a577f7f07b635945d469e4b41",
+        "sha512": "5b44706b885a1d29f908af86eb48bdd848fb6222254c360cb05090ec65a31903dcd69c0861940685d3edb6d93b6ef8932dca9c82105dbdfb98f5ed007cfa2cf7"
+      },
+      "env": {
+        "server": "unsupported",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Bh37bMuy/versions/Iusxhlyd/reeses_sodium_options-1.4.7%2Bmc1.19.2-build.59.jar"
+      ],
+      "fileSize": 49903
+    },
+    {
+      "path": "mods/RoughlyEnoughItems-9.1.530.jar",
+      "hashes": {
+        "sha1": "3611067a9a3c17ad53755e24cd6909a6659243f0",
+        "sha512": "d7a88c8efe517fccf5fa56924a5770ef67e1832564cb2c7482d3f7a1a5515ca41195161a86779a6f81e018e5a94c743c4b79ceb60b196f9e149c8afcf1cb86ea"
+      },
+      "env": {
+        "server": "optional",
+        "client": "optional"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/nfn13YXA/versions/9.1.530+fabric/RoughlyEnoughItems-9.1.530.jar"
+      ],
+      "fileSize": 2076987
+    },
+    {
+      "path": "mods/show-me-your-skin-1.3.3+1.19.jar",
+      "hashes": {
+        "sha1": "2159f1d5f2663ff9772419a3040ec6c5feb3c0a3",
+        "sha512": "c17b8ba833f74f40a1399bff2c463b4c2b5bce570ed66cdb7819eb401bd5ac109a2b3ed20e09eb5e3fa4d478f37edd64975e882f83c225fd837f9aa6552f5d0f"
+      },
+      "env": {
+        "server": "unsupported",
+        "client": "optional"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/bD7YqcA3/versions/1.3.3+1.19/show-me-your-skin-1.3.3%2B1.19.jar"
+      ],
+      "fileSize": 81526
     }
   ],
   "dependencies": {
