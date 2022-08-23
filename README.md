@@ -30,7 +30,7 @@ List of mods included with the links to them plus if they are optional or not:
 | Critical Orientation                                    | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/orientation                                            |
 | Cull Leaves                                             | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/cull-leaves                                            |
 | DashLoader                                              | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/dashloader                                             |
-| Distant Horizons                                | <ul><li>- [ ] </li></ul>    | https://modrinth.com/modpack/harms-fabulous-pack            |
+| Distant Horizons                                | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/distanthorizons            |
 | Don't Clear Chat History                                | <ul><li>- [ ] </li></ul>    | https://www.curseforge.com/minecraft/mc-mods/dont-clear-chat-history            |
 | Durability Viewer                                       | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/durabilityviewer                                       |
 | Dynamic FPS                                             | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/dynamic-fps                                            |
