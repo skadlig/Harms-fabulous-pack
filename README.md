@@ -16,7 +16,7 @@ List of mods included with the links to them plus if they are optional or not:
 |---------------------------------------------------------|----------|---------------------------------------------------------------------------------|
 | Amecs: Alt-Meta-Escape-Control-Shift                    | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/amecs                                                  |
 | AntiGhost                                               | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/antighost                                              |
-| ARchitectury API                                        | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/architectury-api                                       |
+| Architectury API                                        | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/architectury-api                                       |
 | Auth me                                                 | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/auth-me                                                |
 | bad packets                                             | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/badpackets                                             |
 | Better Biome Blend                                      | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/better-biome-blend                                     |
@@ -40,6 +40,7 @@ List of mods included with the links to them plus if they are optional or not:
 | FerriteCore                                             | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/ferrite-core                                           |
 | ForgetMeChunk                                           | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/forgetmechunk                                          |
 | GrabcraftLitematic                                              | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/grabcraft-litematic                                             |
+| Independent Pets / IndyPets                             | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/indypets                                               |
 | Indium                                                  | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/indium                                                 |
 | Inspecio                                                | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/inspecio                                               |
 | Inventory Profiles Next                                 | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/inventory-profiles-next                                |
@@ -65,6 +66,7 @@ List of mods included with the links to them plus if they are optional or not:
 | Not ENough Crashes                                      | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/NoteNoughcrashes                                       |
 | Ok zoomer                                               | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/ok-zoomer                                               |
 | Pet Owner                                               | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/petowner                                               |
+| Project: Save the Pets!                                 | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/projectsavethepets                                               |
 | Quilted Fabric API / Quilt Standard Libraries                                     | <ul><li>- [x] </li></ul>   | https://modrinth.com/mod/qsl                                   |
 | Quilt Loading Screen                                    | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/quilt-loading-screen                                   |
 | Raised                                                  | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/raised                                                 |
