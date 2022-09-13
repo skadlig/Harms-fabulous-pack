@@ -21,7 +21,7 @@ List of mods included with the links to them plus if they are optional or not:
 | bad packets                                             | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/badpackets                                             |
 | Better Biome Blend                                      | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/better-biome-blend                                     |
 | Beenfo                                      | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/beenfo                                     |
-| Bobby                                                   | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/bobby                                                  |
+| Bobby                                                   | <ul><li>- [ ] </li></ul>     | https://modrinth.com/mod/bobby                                                  |
 | Better Enchanted Books                                              | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/better-enchanted-books                                             |
 | Clean Logs                                              | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/clean-logs                                             |
 | ClickTthrough                                           | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/clickthrough                                           |
@@ -36,6 +36,7 @@ List of mods included with the links to them plus if they are optional or not:
 | Dynamic FPS                                             | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/dynamic-fps                                            |
 | Enhanced Block Entities                                         | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/ebe
 | Entity culling                                          | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/entityculling                                          |
+| Fastload                                                | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/fastload |
 | FastOpenLinksAndFolders                                 | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/fastopenlinksandfolders            |
 | FerriteCore                                             | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/ferrite-core                                           |
 | ForgetMeChunk                                           | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/forgetmechunk                                          |
@@ -45,7 +46,6 @@ List of mods included with the links to them plus if they are optional or not:
 | Inspecio                                                | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/inspecio                                               |
 | Inventory Profiles Next                                 | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/inventory-profiles-next                                |
 | JourneyMap                                              | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/journeymap                                             |
-| kennytvs-epic-force-close-loading-screen-mod-for-fabric | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/forcecloseworldloadingscreen                           |
 | Krypton                                                 | <ul><li>- [x] </li></ul>     | https://modrinth.com/mod/krypton                                                |
 | LambdaBetterGrass                                       | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/lambdabettergrass                                      |
 | LambDynamicLights                                       | <ul><li>- [ ] </li></ul>    | https://modrinth.com/mod/lambdynamiclights                                      |
